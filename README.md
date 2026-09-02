@@ -1,0 +1,1 @@
+Essa API está sendo feita como uma avaliação dividida em 4 partes da matéria de SW II (sistemas web) do professor Anderson Vanin
