@@ -24,7 +24,7 @@ Git/GitHub
 
 Clone o repositório:
 
-git clone URL_DO_REPOSITORIO
+git clone (https://github.com/Ramon150908/api-livros.git)
 
 
 Entre na pasta do projeto:
