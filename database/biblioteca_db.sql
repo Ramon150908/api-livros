@@ -41,7 +41,7 @@ CREATE TABLE `livros` (
 
 INSERT INTO `livros` (`id`, `titulo`, `autor`, `ano_publicacao`, `disponivel`) VALUES
 (1, 'Como Treinar o Seu Dragão', 'Cressida Cowell', 2003, 1),
-(2, 'Nicolau São Norte e a Batalha Contra o Rei dos Pesadelos', 'Laura Geringer, William Joyce', 2012, 1);
+(2, 'Nicolau São Norte e a Batalha Contra o Rei dos Pesadelos', ' ', 2012, 1);
 
 --
 -- Índices para tabelas despejadas
